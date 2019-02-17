@@ -1,7 +1,8 @@
 # Extracting Features From Employememnt Letters 
 
 ## To do List
-- [ ] Classify between ammendment or employment letter 
+- [ ]Classify between ammendment or employment letter
+- ### Definitely do
 - [ ] Name of the employer
 - [ ] Name of the employee
 - [ ] Role/Tile of the employee
@@ -10,17 +11,15 @@
 - [ ] Date agreement was entered  
 - [ ] Employment start date
 - [ ] Employment end date (if it exists)
-
-
-    i.	Other compensation 
-    i.	Bonus
-    ii.	Commissions
-    iii.	Stock options
-    iv.	Other stock or equity awards  
-    j.	Non-monetary benefits 
-o	Health insurance 
-o	401K 
-o	Vacation 
-k.	Termination 
-o	at-will or not?
-o	Notice period 
+- ### Other compensation 
+- [ ]Bonus
+- [ ]Commissions
+- [ ]Stock options
+- [ ]Other stock or equity awards  
+- ### Non-monetary benefits 
+- [ ]Health insurance 
+- [ ]401K 
+- [ ]Vacation 
+- ### Termination 
+- [ ]at-will or not?
+- [ ]Notice period 
